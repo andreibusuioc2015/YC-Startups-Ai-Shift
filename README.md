@@ -73,4 +73,4 @@ The bootstrap interval covers sampling noise only, not labelling errors.
 ## Credits
 
 Assignment for *Module 2: Intro to NLP*, MSc Business Data Science, Aalborg University Business School (2026).
-Assignment design, starter notebook and helper functions by the course instructors. Hand checks, prompts, type definitions, shift-share implementation and conclusions by Andrei (add GitHub/LinkedIn).
+
