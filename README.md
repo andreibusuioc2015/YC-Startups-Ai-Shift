@@ -28,7 +28,7 @@ pie showData
 
 AI grew in **every** type of work, and the biggest jumps were in established areas:
 
-![AI at the core, by type of work](images/ai_by_type.png)
+
 
 | Type of work | AI at the core, 2017–19 | AI at the core, 2023–26 |
 |---|---|---|
